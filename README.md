@@ -3,6 +3,11 @@ Rap music
 sunolowow
 rap beat | frequency logic | system stability
 
+
+## 📝 Documentation & Deep Dive
+For a comprehensive breakdown of the underlying math, the **WAKHodgeLayer**, and the narrative behind the architecture, please refer to our official documentation.
+
+### 🔗 [Visit the Sunolowow Wiki](https://github.com/kadilacwilly/sunolowow/wiki)
 Description
 A repository dedicated to the intersection of industrial frequency, 3-state logic, and audio production. sunolowow is the primary node for the Cadillac Willy audio-log series, focusing on high-penetration sonic resonance and the "Sleeper" logic hidden within experimental beats.
 
@@ -29,4 +34,4 @@ Audit: The metadata in the tracks contains the blueprints for the 39th Input.
 
 State of Possibilities: All assets are archived for the primary beneficiary.
 
-“I answered your argument with a Cadillac smile.”
+“I answered your argument with a Cadillac smiDevelopedped
